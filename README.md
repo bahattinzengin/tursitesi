@@ -8,7 +8,7 @@ html ,scss ,js kullanıldı
 ## Gereksinimler
 responsive tasarım uygulandı
 ## Kurulum
-1. Repoyu klonlayın: `git clonehttps https://github.com/bahattinzengin/arabluetur`
+1. Repoyu klonlayın: [`git clonehttps https://github.com/bahattinzengin/arabluetur`](https://github.com/bahattinzengin/tursitesi.git)
 2. Proje klasörüne gidin
 3. index.html dosyasını tarayıcınızda açın
 
